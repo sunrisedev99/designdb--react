@@ -4,13 +4,6 @@
 
 <h3 align="center">Free, simple, and intuitive database design tool and SQL generator.</h3>
 
-<p align="center">
-    <a href="https://drawdb.app/">drawDB</a>
-    ·  
-    <a href="https://discord.gg/BrjZgNrmR6">Discord</a>
-    ·  
-    <a href="https://x.com/drawDB_">X</a>
-</p>
 
 <h3 align="center"><img width="700" style="border-radius:5px;" alt="demo" src="drawdb.gif"></h3>
 
