@@ -13,6 +13,8 @@ DrawDB is a robust and user-friendly database entity relationship (DBER) editor 
 
 ## Getting Started
 
+version: 16.20.2
+
 ### Local Development
 
 ```bash
