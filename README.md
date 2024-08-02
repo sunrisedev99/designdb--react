@@ -40,4 +40,4 @@ docker build -t drawdb .
 docker run -p 3000:80 drawdb
 ```
 
-Set up the [server](https://github.com/drawdb-io/drawdb-server) and environment variables according to `.env.sample` for the survey and bug report forms.
+Set up the [server](https://github.com/sunrisedev99/drawdb-server) and environment variables according to `.env.sample` for the survey and bug report forms.
