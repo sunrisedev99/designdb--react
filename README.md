@@ -18,8 +18,8 @@ version: 16.20.2
 ### Local Development
 
 ```bash
-git clone https://github.com/drawdb-io/drawdb
-cd drawdb
+git clone https://github.com/sunrisedev99/designdb
+cd designdb
 npm install
 npm run dev
 ```
@@ -27,8 +27,8 @@ npm run dev
 ### Build
 
 ```bash
-git clone https://github.com/drawdb-io/drawdb
-cd drawdb
+git clone https://github.com/sunrisedev99/designdb
+cd designdb
 npm install
 npm run build
 ```
