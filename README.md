@@ -36,8 +36,8 @@ npm run build
 ### Docker Build
 
 ```bash
-docker build -t drawdb .
-docker run -p 3000:80 drawdb
+docker build -t designdb .
+docker run -p 3000:80 designdb
 ```
 
 Set up the [server](https://github.com/sunrisedev99/designdb-server) and environment variables according to `.env.sample` for the survey and bug report forms.
